@@ -1,4 +1,4 @@
-
+iStat Menus for macOS automatic Workflow - dark-mode and file-archiving offers the most advanced iStat Menus for macOS workflow, with dark-mode and file-archiving. Ideal for macOS
 
 
 
